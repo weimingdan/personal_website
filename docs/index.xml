@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creative portfolio</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Creative portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2017 11:18:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/post/my_post/</link>
+      <pubDate>Thu, 14 Dec 2017 11:18:15 +0800</pubDate>
+      
+      <guid>https://example.org/post/my_post/</guid>
+      <description> 这是第一篇标题 </description>
+    </item>
+    
+  </channel>
+</rss>
