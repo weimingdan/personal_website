@@ -1,4 +1,4 @@
-baseurl = "https://weimingdan.github.io/"
+baseurl = "https://weimingdan.github.io/personal_website/"
 title = "Creative portfolio"
 theme = "creative"
 languageCode = "en-us"
